@@ -8,7 +8,7 @@
 
 
 ## <h3 style="margin-top: 4px;">SPECIFICATIONS</h3>
-✨Make a game interface with a difficulty setting. <br>
+✨Make a game interface with a difficulty settings. <br>
 ✨Depending on how tough a word is to type, add a particular amount of time. <br>
 ✨Score rises following word entry. <br>
 ✨Save the difficulty setting locally. <br>
